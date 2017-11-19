@@ -6,3 +6,15 @@
 
 
 
+
+
+參考資料
+
+http://icarus4.logdown.com/posts/177661-from-bash-to-zsh-setup-tips
+
+https://github.com/robbyrussell/oh-my-zsh
+
+http://huli.logdown.com/posts/402147-iterm2-zsh-better-environment
+
+
+

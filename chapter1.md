@@ -20,3 +20,5 @@ gitGUI，還有很多工具，但是我喜歡軟體動物
 
 感謝gitbook，希望就可以養成本機寫筆記，分享出去的習慣．你現在看到的文件也是如此
 
+https://kingofamani.gitbooks.io/git-teach/content/chapter\_6\_gitbook/chapter\_6\_gitbookgitbook2.html
+
