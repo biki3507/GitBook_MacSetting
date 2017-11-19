@@ -1,3 +1,6 @@
-# My Awesome Book
+# Why
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+對於自己重新建環境留下的一些記錄
+
+
+
